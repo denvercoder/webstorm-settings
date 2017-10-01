@@ -7,8 +7,9 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="EditorSplitLine" />
+  <action id="SavaAs" />
   <action id="Tool_External Tools_Prettier">
-    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="ViewSource" />
 </keymap>
